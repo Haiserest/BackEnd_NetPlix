@@ -1,12 +1,13 @@
 # BackEnd_NetPlix
 Backend Netplix with express + postgres
 
-npm init
 
-npm i express
+`npm init`
 
-npm i @type/node nodemon
+`npm i express`
 
-npm i pg
+`npm i @type/node nodemon`
 
-npm i cors
+`npm i pg`
+
+`npm i cors`
